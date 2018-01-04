@@ -1,5 +1,7 @@
 # ansible-win_pester
 
+> This module is under developpement. Tested with ANsible 2.4 and Windows Server 2016. Please open issues or submit PR.
+
 Run [Pester](https://github.com/pester/Pester) tests with Ansible on Windows hosts.
 
 You may integrate this module in your Ansible workflow to check if the configuration of your Windows host is correct after running your playbook. 
